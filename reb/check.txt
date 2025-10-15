@@ -5,20 +5,5 @@ line 1
 line 2
 line 3
 
-line  4 
-
-line 5 
-
-pawan-1
-
-pawan-2
 // new change 
 change -1
-
-change -2
-
-change -3
-
-
-
-// rebase does what jis branch se woh bna h usme chnages h toh woh chnages bn aah jayenge aur uss chnages se bn jayega aur jis branch mein tun abhi h ussi ka ek ek krke aayega aur accept incoming hoga current brnach ka hi ek ek commit krke 
