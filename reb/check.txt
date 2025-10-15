@@ -17,3 +17,5 @@ change -3
 // rebase does what jis branch se woh bna h usme chnages h toh woh chnages bn aah jayenge aur uss chnages se bn jayega aur jis branch mein tun abhi h ussi ka ek ek krke aayega aur accept incoming hoga current brnach ka hi ek ek commit krke 
 
 new change 1
+
+new change 2 
