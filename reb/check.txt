@@ -1,4 +1,3 @@
 
 name:bewda
-age:30
 status:not known 
