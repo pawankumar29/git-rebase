@@ -1,24 +1,5 @@
-main-1
-main-2
 
-line 1
-line 2
-line 3
-
-// new change 
-change -1
-
-change -2
-
-change -3
-
-
-
-// rebase does what jis branch se woh bna h usme chnages h toh woh chnages bn aah jayenge aur uss chnages se bn jayega aur jis branch mein tun abhi h ussi ka ek ek krke aayega aur accept incoming hoga current brnach ka hi ek ek commit krke 
-
-new change 1
-
-new change 2 
-feature -1
-
-feature -2
+name:pawan
+age:30
+name-1:om 
+name-2:yes 
